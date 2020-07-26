@@ -1,12 +1,9 @@
 # Github Explorer
-Project React.JS
+*This was an application developed during the Rocketseat bootcamp (GoStack 11). It consists of an application that searches the repository using the Github API.*
 
 ![](https://github.com/andersonmenezesm/github-explorer/blob/master/Logo.svg)
 
 <p>
-
-__Whats is project?__ <br /> <br />
-*This was an application developed during the Rocketseat bootcamp (GoStack 11). It consists of an application that searches the repository using the Github API.* <br /> <br /> <br />
 
 ## Installing / Getting started
 
