@@ -1,7 +1,6 @@
-# Github Explorer
-*This was an application developed during the Rocketseat bootcamp (GoStack 11). It consists of an application that searches the repository using the Github API.*
-
 ![](https://github.com/andersonmenezesm/github-explorer/blob/master/Logo.svg)
+
+*This was an application developed during the Rocketseat bootcamp (GoStack 11). It consists of an application that searches the repository using the Github API.*
 
 <p>
 
